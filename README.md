@@ -32,6 +32,6 @@ Fase 1: planificación inicial. El anteproyecto está redactado y el tablero de 
 - Prototipo de interfaz
 - Arquitectura de red en AWS (en elaboración)
 ## Enlaces
-Tablero Jira: https://joseantoniomartinezvazquez.atlassian.net/jira/software/projects/VUL/list?jql=project+%3D+%22VUL%22+AND+%28statusCategory+%21%3D+Done+OR+%28statusCategory+%3D+Done+AND+statusCategoryChangedDate+%3E%3D+-2w%29%29+ORDER+BY+status+ASC&atlOrigin=eyJpIjoiZDk5NzNkZTE2MGNlNDY3ZTg0NTBkZWQ0NWU3N2Y2MTYiLCJwIjoiaiJ9
+[Tablero Jira:](https://joseantoniomartinezvazquez.atlassian.net/jira/software/projects/VUL/list?jql=project+%3D+%22VUL%22+AND+%28statusCategory+%21%3D+Done+OR+%28statusCategory+%3D+Done+AND+statusCategoryChangedDate+%3E%3D+-2w%29%29+ORDER+BY+status+ASC&atlOrigin=eyJpIjoiZDk5NzNkZTE2MGNlNDY3ZTg0NTBkZWQ0NWU3N2Y2MTYiLCJwIjoiaiJ9)
 
-Web del proyecto: https://github.com/ajosmarvaz-cmyk/VULNERA_es
+[Web del proyecto:](https://github.com/ajosmarvaz-cmyk/VULNERA_es)
