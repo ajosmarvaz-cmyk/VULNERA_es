@@ -18,7 +18,7 @@ El trabajo se organiza con Git y GitHub (código y documentación), Jira (tabler
 - Panel web oscuro y minimalista, en inglés con selector EN/ES, y CLI con salida limpia.
 - Escaneos programados y despliegue en AWS con HTTPS, copias de seguridad y monitorización.
 ## Planificación
-El proyecto sigue seis fases: planificación inicial, análisis y diseño, desarrollo, pruebas, despliegue y mantenimiento. El trabajo se reparte en sprints semanales que cierran los miércoles, y el detalle de cada tarea está en Jira.
+El proyecto sigue seis fases: planificación inicial, análisis y diseño, desarrollo, pruebas, despliegue y mantenimiento. El trabajo se reparte en tareas semanales y el detalle de cada tarea está en Jira.
 
 v0.1 (MVP): CLI con tres checks, a mediados de diciembre de 2026.
 v0.2: motor completo con tests, a finales de enero de 2027.
